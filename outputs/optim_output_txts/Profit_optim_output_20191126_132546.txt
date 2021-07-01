@@ -1,0 +1,24 @@
+============= SPECIFICATIONS OF THE SELECTED CUSTOMER SEGMENT =============
+Inconvenience factor corresponding to online order: 		  0.3
+Inconvenience mitigating factor: 				  0.2
+
+================== SPECIFICATIONS OF THE PRODUCT SEGMENT ==================
+Valuation of the product type (lead time valuation): 		 10 $/day
+
+================== SPECIFICATIONS OF THE RETAILER SEGMENT =================
+Extra sourcing and handling costs: 				  0.85
+
+====================== PROFIT OPTIMISATION RESULTS ========================
+Initial product price: 						 500
+Optimal product price: 						 475
+Initial priority courier shipment price: 			 29.99
+Optimal priority courier shipment price: 			 35.99
+Initial expedited shipment price: 				  6.99
+Optimal expedited shipment price: 				 8.39
+Initial standard shipment price: 				  3.99
+Optimal standard shipment price: 				  3.99
+
+Original demand: 						 0.8016
+Post-optimization demand: 					 2.1362
+Original profit: 						 3.7275
+Maximal profit reached: 					 21.5364
